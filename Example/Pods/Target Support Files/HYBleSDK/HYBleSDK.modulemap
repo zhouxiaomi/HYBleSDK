@@ -1,0 +1,6 @@
+framework module HYBleSDK {
+  umbrella header "HYBleSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}
